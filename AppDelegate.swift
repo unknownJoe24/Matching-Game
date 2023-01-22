@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  MatchEmNav
-//
-//  Created by Joseph Neighbors on 11/9/22.
-//
-
 import UIKit
 import CoreData
 

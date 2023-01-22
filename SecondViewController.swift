@@ -1,10 +1,3 @@
-//
-//  SecondViewController.swift
-//  MatchEmNav
-//
-//  Created by Joseph Neighbors on 11/17/22.
-//
-
 import UIKit
 
 class SecondViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDelegate {

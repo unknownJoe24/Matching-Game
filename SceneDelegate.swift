@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  MatchEmNav
-//
-//  Created by Joseph Neighbors on 11/9/22.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
